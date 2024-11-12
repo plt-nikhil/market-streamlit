@@ -1,0 +1,252 @@
+[
+    {
+        "symbol": "SENSEX",
+        "name": "Bse Sensex",
+        "count": 31
+    },
+    {
+        "symbol": "BSE100",
+        "name": "Bse 100",
+        "count": 106
+    },
+    {
+        "symbol": "BSE200",
+        "name": "Bse 200",
+        "count": 207
+    },
+    {
+        "symbol": "BSE500",
+        "name": "Bse 500",
+        "count": 525
+    },
+    {
+        "symbol": "BSE CG",
+        "name": "Bse Capital Goods",
+        "count": 33
+    },
+    {
+        "symbol": "BSE CD",
+        "name": "Bse Consumer Durables",
+        "count": 12
+    },
+    {
+        "symbol": "BSE HC",
+        "name": "Bse Healthcare",
+        "count": 97
+    },
+    {
+        "symbol": "BSEPSU",
+        "name": "Bse PSU",
+        "count": 59
+    },
+    {
+        "symbol": "AUTO",
+        "name": "Bse Auto",
+        "count": 17
+    },
+    {
+        "symbol": "METAL",
+        "name": "Bse Metal",
+        "count": 11
+    },
+    {
+        "symbol": "POWER",
+        "name": "Bse Power",
+        "count": 14
+    },
+    {
+        "symbol": "SMEIPO",
+        "name": "Bse SME IPO",
+        "count": 101
+    },
+    {
+        "symbol": "CONDIS",
+        "name": "BSE Consumer Discretionary & Services",
+        "count": 307
+    },
+    {
+        "symbol": "FINSER",
+        "name": "BSE Financial Services",
+        "count": 150
+    },
+    {
+        "symbol": "INDSTR",
+        "name": "Bse Industrials",
+        "count": 224
+    },
+    {
+        "symbol": "ENERGY",
+        "name": "Bse Energy",
+        "count": 30
+    },
+    {
+        "symbol": "TELCOM",
+        "name": "BSE Telecommunication",
+        "count": 17
+    },
+    {
+        "symbol": "UTILS",
+        "name": "Bse Utilities",
+        "count": 28
+    },
+    {
+        "symbol": "LRGCAP",
+        "name": "Bse LargeCap",
+        "count": 98
+    },
+    {
+        "symbol": "SMLSEL",
+        "name": "Bse SmallCap Select Index",
+        "count": 67
+    },
+    {
+        "symbol": "MIDSEL",
+        "name": "Bse MidCap Select Index",
+        "count": 33
+    },
+    {
+        "symbol": "SNXT50",
+        "name": "Bse Sensex Next 50",
+        "count": 56
+    },
+    {
+        "symbol": "MID150",
+        "name": "Bse 150 MidCap Index",
+        "count": 168
+    },
+    {
+        "symbol": "SML250",
+        "name": "Bse 250 SmallCap Index",
+        "count": 282
+    },
+    {
+        "symbol": "LMI250",
+        "name": "Bse 250 LargeMidCap Index",
+        "count": 262
+    },
+    {
+        "symbol": "MSL400",
+        "name": "Bse 400 MidSmallCap Index",
+        "count": 431
+    },
+    {
+        "symbol": "BSEPVTBANK",
+        "name": "Bse Private Banks Index",
+        "count": 12
+    },
+    {
+        "symbol": "SERVICES",
+        "name": "BSE Services",
+        "count": 51
+    },
+    {
+        "symbol": "NIFTY",
+        "name": "Nifty 50",
+        "count": 50
+    },
+    {
+        "symbol": "NIFTYIT",
+        "name": "Nifty IT",
+        "count": 10
+    },
+    {
+        "symbol": "NIFTYJR",
+        "name": "Nifty Next 50",
+        "count": 55
+    },
+    {
+        "symbol": "BANKNIFTY",
+        "name": "Nifty Bank",
+        "count": 12
+    },
+    {
+        "symbol": "NIFTY500",
+        "name": "Nifty 500",
+        "count": 534
+    },
+    {
+        "symbol": "MIDCAP50",
+        "name": "Nifty Midcap 50",
+        "count": 60
+    },
+    {
+        "symbol": "NIFTY100",
+        "name": "Nifty 100",
+        "count": 106
+    },
+    {
+        "symbol": "NIFTYFMCG",
+        "name": "Nifty FMCG",
+        "count": 16
+    },
+    {
+        "symbol": "NIFTYPSU",
+        "name": "NIFTY PSU",
+        "count": 12
+    },
+    {
+        "symbol": "NIFTYMNC",
+        "name": "Nifty MNC",
+        "count": 32
+    },
+    {
+        "symbol": "NIFTYSMALL",
+        "name": "NIFTY Smallcap 100",
+        "count": 127
+    },
+    {
+        "symbol": "NIFTYPSE",
+        "name": "Nifty PSE",
+        "count": 20
+    },
+    {
+        "symbol": "NIFTYAUTO",
+        "name": "Nifty Auto",
+        "count": 18
+    },
+    {
+        "symbol": "NIFTYMETAL",
+        "name": "Nifty Metal",
+        "count": 15
+    },
+    {
+        "symbol": "NIFTY200",
+        "name": "Nifty 200",
+        "count": 213
+    },
+    {
+        "symbol": "NIFTYMEDIA",
+        "name": "Nifty Media",
+        "count": 11
+    },
+    {
+        "symbol": "NIFTYCDTY",
+        "name": "Nifty Commodities",
+        "count": 31
+    },
+    {
+        "symbol": "NIFTYCPSE",
+        "name": "Nifty CPSE",
+        "count": 11
+    },
+    {
+        "symbol": "NIFTYPTBNK",
+        "name": "Nifty Private Bank",
+        "count": 10
+    },
+    {
+        "symbol": "NCONSDUR",
+        "name": "Nifty Consumer Durables",
+        "count": 18
+    },
+    {
+        "symbol": "NOILGAS",
+        "name": "Nifty Oil & Gas",
+        "count": 15
+    },
+    {
+        "symbol": "NIFTYMFG",
+        "name": "NIFTY India Manufacturing",
+        "count": 81
+    }
+]
